@@ -1,0 +1,3 @@
+1
+Position: Top-center
+o wins in 1 moves
